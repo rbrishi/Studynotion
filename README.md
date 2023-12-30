@@ -19,24 +19,24 @@ The front end is crafted using ReactJS, featuring a user-friendly interface desi
 ### Back-end
 Built on Node.js and Express.js, StudyNotion's back end offers robust features, including user authentication, course management, payment integration, and cloud-based media management with MongoDB as the primary database.
 
-###API Design
+### API Design
 The RESTful API, implemented in Node.js and Express.js, facilitates smooth communication between the front end and back end. Key endpoints include user authentication, course management, and rating functionalities.
 
-###Deployment
+### Deployment
 The deployment process ensures scalability, security, and reliability. The front end is hosted on Vercel, while Render or Railway handles the back end. Media files are stored on Cloudinary, and MongoDB Atlas provides a secure database environment.
 
-###Future Enhancements
+### Future Enhancements
 Potential future enhancements include gamification features, personalized learning paths, social learning functionalities, a mobile app for broader accessibility, machine learning-powered recommendations, and virtual reality/augmented reality integration.
 
-##Conclusion
+## Conclusion
 StudyNotion is a versatile and intuitive ed-tech platform developed using cutting-edge technologies. As a Full Stack Developer, I contributed to the architecture, design, and functionality, ensuring a seamless and engaging learning experience. The platform's commitment to continuous improvement and innovation is highlighted through its potential future enhancements.
 
-##Challenges and Achievements
+## Challenges and Achievements
 Throughout the development, I successfully implemented desired functionalities, overcame challenges in technology integration, and contributed to debugging efforts. My role was instrumental in achieving key milestones and delivering a user-friendly interface.
 
-##Key Technologies Used
+## Key Technologies Used
 
-###Front-end
+### Front-end
 ReactJS
 Figma
 CSS
@@ -44,7 +44,7 @@ Tailwind
 Redux
 VSCode
 
-###Back-end
+### Back-end
 Node.js
 Express.js
 MongoDB
@@ -52,7 +52,7 @@ JWT
 Bcrypt
 Mongoose
 
-###Deployment
+### Deployment
 Vercel
 Render or Railway
 Cloudinary
