@@ -5,7 +5,7 @@
 ### Introduction
 StudyNotion is a groundbreaking ed-tech platform designed to transform the learning experience by providing a comprehensive suite of tools for both students and instructors. Leveraging the MERN stack (MongoDB, ExpressJS, ReactJS, NodeJS), StudyNotion empowers users to create, consume, and rate educational content.
 
-### Position and Duration
+### Position
 **Position:** Full Stack Developer
 
 ## Technical Overview
@@ -37,25 +37,25 @@ Throughout the development, I successfully implemented desired functionalities, 
 ## Key Technologies Used
 
 ### Front-end
-*ReactJS
-*Figma
-*CSS
-*Tailwind
-*Redux
-*VSCode
+* ReactJS
+* Figma
+* CSS
+* Tailwind
+* Redux
+* VSCode
 
 ### Back-end
-*Node.js
-*Express.js
-*MongoDB
-*JWT
-*Bcrypt
-*Mongoose
+* Node.js
+* Express.js
+* MongoDB
+* JWT
+* Bcrypt
+* Mongoose
 
 ### Deployment
-*Vercel
-*Render or Railway
-*Cloudinary
-*MongoDB Atlas
+* Vercel
+* Render or Railway
+* Cloudinary
+* MongoDB Atlas
 
 This project not only showcased my technical proficiency but also demonstrated my ability to contribute to the development of a forward-thinking ed-tech platform.
